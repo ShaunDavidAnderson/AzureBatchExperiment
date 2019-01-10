@@ -7,5 +7,9 @@ Showing process to set up Azure Batch
 - Output (Private)
 
 ###Uploads
-- Application: C++ Sample simulator (.cs file)
-- 
+- Application: Cant find tar.gz file
+
+### Alternative example using R
+- See this link: https://docs.microsoft.com/en-us/azure/batch/tutorial-r-doazureparallel
+- Includes the doAzureParallel GitHub package: https://github.com/Azure/doAzureParallel
+- this requires devtools::install_github("Azure/doAzureParallel") & devtools::install_github("Azure/rAzureBatch")
